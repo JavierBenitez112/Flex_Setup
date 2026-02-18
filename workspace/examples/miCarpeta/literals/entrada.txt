@@ -1,0 +1,9 @@
+/* Prueba*/
+let x = 10.5;
+let y = 0xFF; // Hexadecimal
+let ciencia = 2.5e-3;
+
+if (x >= 10 && y != 0) {
+    let resultado = "Aprobado";
+    x = x * 2;
+}
